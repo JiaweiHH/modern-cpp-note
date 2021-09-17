@@ -1,7 +1,5 @@
 现代 C++ 特性的学习笔记，包含 C++11/14/17 一些常用的功能，主要是为了以后回顾使用
 
-目录根据《Effective Modern C++》整理，代码目录按照《modern-cpp-tutorial》整理。有一些内容两本书重复的我会在 `markdown` 中包含了 `.cc` 里面的部分实现代码，另外部分只有《modern-cpp-tutorial》特有的部分参考 `.cc` 代码部分的注释
-
 - 第 I 部分：型别推导
   - [模版型别推导](docs/模版型别推导.md) 
   - [auto 型别推导](docs/auto%20型别推导.md)
